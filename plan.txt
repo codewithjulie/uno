@@ -1,0 +1,29 @@
+class UnoDeck?
+uno deck has 108 cards
+76 are numbers 
+  19 cards per color, two cards of each number, and only 1 zero
+24 action cards
+  2 cards of each color
+  Draw 2 (8)
+  Skip (8)
+  Wild (4)
+  Wild + draw 4 (4)
+
+class Card
+attribute: color, value
+how to randomize and get color/value
+
+class Player?
+attribute: current_player == false?, next_player == false?, previous_player == false?
+player's hand: holds 7 cards?
+play_card - get rid of a card from a player's hand, 
+draw_card - draw a card if unable or won't play, OR if the card played previously requires it
+won?
+lost?
+
+class Uno
+attribute: players: 
+
+methods: 
+start game
+game_over?

@@ -1,0 +1,17 @@
+Taken from: http://jessicabattle.com/2016-09-15-hammer-time/
+
+Uno is a game for two players where players start with seven cards each and try to get rid of their cards first
+
+A player can get rid of cards in two ways:
+    Match the color, number, or symbol of the top discard card
+    Use a wild card
+
+Cards are added to a player’s hand in a couple of ways:
+    A player must pull one card from the deck if she has no matches to the top discard card at the start of her turn OR if she chooses not to play any of the cards she has
+    A player must pull however many cards she is commanded to pull from the deck if the top card on the discard pile at the start of her turn commands her to add cards to her hand
+    Once a player gets down to one card in her hand, she must call out “Uno!” If her opponent calls “No Uno!” before she calls “Uno!,” she must draw two cards from the deck. If an opponent calls “No Uno!” prematurely, the opponent must draw two cards from the deck.
+
+Aside from adding and discarding cards to players’ hands, there is one more thing to consider - the game flow. There are special cards that allow players to alter the flow of the game:
+    Skip: skips an opponent’s turn
+    Reverse: reverses the flow of turns
+    Wild: changes the color to match on the discard pile
